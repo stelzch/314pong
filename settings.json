@@ -1,0 +1,14 @@
+{
+	"input": {
+		"PLAYER1_UP": "0-2",
+		"PLAYER1_DOWN": "0-0",
+		"PLAYER2_UP": "1-2",
+		"PLAYER2_DOWN": "1-0"
+	},
+	"gameplay": {
+		"MOVE_FACTOR": 0.2,
+		"BALL_SPEED": 2,
+		"SPREAD_FACTOR": 140
+	},
+	"version": "0.01"
+}
